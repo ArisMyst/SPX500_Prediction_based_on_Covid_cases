@@ -1,4 +1,4 @@
-# SnP500-Prediction-based-on-Covid-Daily-cases-
+# SnP500 Prediction based on Covid Daily cases
 S&amp;P500 Prediction based on Covid Daily cases on USA using polynomial regression 
 
 The daily.csv file is originated from https://covidtracking.com/data/download and has the daily covid cases on USA.
